@@ -1,21 +1,10 @@
-# 👋 Merhaba, ben Hüseyin Yaman
 
-![Header](./assets/header.svg)
+  ![Uploading coding-computer-coding.gif…]()
 
-## 🚀 Hakkımda
-Mobile developer, oyun geliştirici ve .NET MAUI + Unity meraklısı.
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#9aa4b2">
+    The biggest risk is not taking any risks
+  </text>
 
-![Typing](./assets/typing.svg)
-
-## 🛠️ Teknolojiler
-![Marquee](./assets/marquee.svg)
-
-## 📊 GitHub İstatistikleri (isteğe bağlı)
-<!-- Aşağıyı kullanmak istersen: https://github-readme-stats.vercel.app/ -->
-![Hüseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&theme=radical)
-
-## 📈 Katkı grafiği
-![Contribution Graph](https://ghchart.rshah.org/<GITHUB_USERNAME>)
-
----
-*README’ı daha canlı hale getirmek için SVG’ları kendi renk paletine göre düzenleyebilirsin. İstersen ben sana renkleri, fontları veya içerikleri (ör. “Game Dev” yerine oyun projenin adı) özelleştirip SVG’ları düzenleyeyim.*
+  <rect x="-400" y="20" width="400" height="260" fill="white" opacity="0.06">
+    <animate attributeName="x" from="-400" to="1200" dur="3.6s" repeatCount="indefinite" />
+  </rect>
